@@ -1,0 +1,28 @@
+{
+  "backgroundType": "gradient",
+  "plainBackgroundMode": "daylight",
+  "gradientColors": "#EE7752, #E73C7E, #23A6D5, #23D5AB",
+  "FirstName": "Vincenzo",
+  "MiddleName": "",
+  "LastName": "Pimpinella",
+  "devDesc": "| DevOps | Backend Developer | Network Specialist | Database designer ",
+  "icons": [
+    {
+      "id": 0,
+      "image": "fa-github",
+      "url": "https://github.com/Enzo88",
+      "style": "socialicons"
+    },
+    {
+      "id": 1,
+      "image": "fa-linkedin",
+      "url": "https://www.linkedin.com/in/vincenzo-pimpinella-aa7062173/",
+      "style": "socialicons"
+    }
+  ],
+  "aboutHeading": "About Me",
+  "showProfilePic": true,
+  "aboutDescription": "Nato come sviluppatore full stack, in seguito specializzato anche nella parte sistemistica e networking, infine passato al DevOps. Competenze principali in tutte le fasi del ciclo di vita del software, dalla progettazione allo sviluppo e alla manutenzione. Ottime competenze nella progettazione di una infrastruttura software come ausilio allo sviluppo e per l'erogazione dei servizi, dalla creazione di un ambiente di Continuous Integration/Deployment, alla progettazione e realizzazione di un hosting cloud per l'erogazione dei servizi. Ottime competenze anche nella manutenzione e gestione di infrastrutture di rete.",  
+  "showNavigationbar": true,
+  "showBlog": false
+}
