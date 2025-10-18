@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0eebeb36.css",
-    "main.js": "/static/js/main.e93859fe.js",
+    "main.css": "/static/css/main.b23a74df.css",
+    "main.js": "/static/js/main.31209d4a.js",
     "static/media/CV-Europass-Pimpinella-IT.pdf": "/static/media/CV-Europass-Pimpinella-IT.69c5a631b49788ed765a.pdf",
     "static/media/avatar.png": "/static/media/avatar.40abd275a600645582e4.png",
     "index.html": "/index.html",
-    "main.0eebeb36.css.map": "/static/css/main.0eebeb36.css.map",
-    "main.e93859fe.js.map": "/static/js/main.e93859fe.js.map"
+    "main.b23a74df.css.map": "/static/css/main.b23a74df.css.map",
+    "main.31209d4a.js.map": "/static/js/main.31209d4a.js.map"
   },
   "entrypoints": [
-    "static/css/main.0eebeb36.css",
-    "static/js/main.e93859fe.js"
+    "static/css/main.b23a74df.css",
+    "static/js/main.31209d4a.js"
   ]
 }
